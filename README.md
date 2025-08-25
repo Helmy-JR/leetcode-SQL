@@ -3,4 +3,4 @@
 
 ###  I created this Repo to share my solutions for the SQL problems on LeetCode.
 
-#### I hope you find it useful 
+#### I hope you find it useful 🙌
